@@ -1,0 +1,107 @@
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle_game.PuzzleForm.resources
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle-game.csproj.GenerateResource.cache
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle-game.csproj.CoreCompileInputs.cache
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\puzzle_game.exe.config
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\puzzle_game.exe
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\puzzle_game.pdb
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle_game.Properties.Resources.resources
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle_game.exe
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle_game.pdb
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle-game.csprojAssemblyReference.cache
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.dll
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.Mvc.dll
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.WebPages.dll
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.Razor.dll
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.pdb
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.dll.config
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.Mvc.xml
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.WebPages.xml
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.Razor.xml
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle-game.csproj.CopyComplete
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\DesktopLibrary.dll
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\DesktopLibrary.pdb
+D:\myProject\game\puzzle\bin\Debug\puzzle_game.exe.config
+D:\myProject\game\puzzle\bin\Debug\puzzle_game.exe
+D:\myProject\game\puzzle\bin\Debug\puzzle_game.pdb
+D:\myProject\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.dll
+D:\myProject\game\puzzle\bin\Debug\DesktopLibrary.dll
+D:\myProject\game\puzzle\bin\Debug\System.Web.Mvc.dll
+D:\myProject\game\puzzle\bin\Debug\System.Web.WebPages.dll
+D:\myProject\game\puzzle\bin\Debug\System.Web.WebPages.Razor.dll
+D:\myProject\game\puzzle\bin\Debug\System.Web.Razor.dll
+D:\myProject\game\puzzle\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\myProject\game\puzzle\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\myProject\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.pdb
+D:\myProject\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.dll.config
+D:\myProject\game\puzzle\bin\Debug\DesktopLibrary.pdb
+D:\myProject\game\puzzle\bin\Debug\System.Web.Mvc.xml
+D:\myProject\game\puzzle\bin\Debug\System.Web.WebPages.xml
+D:\myProject\game\puzzle\bin\Debug\System.Web.WebPages.Razor.xml
+D:\myProject\game\puzzle\bin\Debug\System.Web.Razor.xml
+D:\myProject\game\puzzle\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\myProject\game\puzzle\obj\Debug\puzzle-game.csprojAssemblyReference.cache
+D:\myProject\game\puzzle\obj\Debug\puzzle_game.PuzzleForm.resources
+D:\myProject\game\puzzle\obj\Debug\puzzle_game.Properties.Resources.resources
+D:\myProject\game\puzzle\obj\Debug\puzzle-game.csproj.GenerateResource.cache
+D:\myProject\game\puzzle\obj\Debug\puzzle-game.csproj.CoreCompileInputs.cache
+D:\myProject\game\puzzle\obj\Debug\puzzle-game.csproj.CopyComplete
+D:\myProject\game\puzzle\obj\Debug\puzzle_game.exe
+D:\myProject\game\puzzle\obj\Debug\puzzle_game.pdb
+D:\masaüstü\myProject\game\puzzle\bin\Debug\puzzle_game.exe.config
+D:\masaüstü\myProject\game\puzzle\bin\Debug\puzzle_game.exe
+D:\masaüstü\myProject\game\puzzle\bin\Debug\puzzle_game.pdb
+D:\masaüstü\myProject\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.dll
+D:\masaüstü\myProject\game\puzzle\bin\Debug\DesktopLibrary.dll
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.Mvc.dll
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.WebPages.dll
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.WebPages.Razor.dll
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.Razor.dll
+D:\masaüstü\myProject\game\puzzle\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\masaüstü\myProject\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.pdb
+D:\masaüstü\myProject\game\puzzle\bin\Debug\Bootstrap_to_c_sharp.dll.config
+D:\masaüstü\myProject\game\puzzle\bin\Debug\DesktopLibrary.pdb
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.Mvc.xml
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.WebPages.xml
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.WebPages.Razor.xml
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.Razor.xml
+D:\masaüstü\myProject\game\puzzle\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle-game.csproj.AssemblyReference.cache
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle-game.csproj.SuggestedBindingRedirects.cache
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle_game.PuzzleForm.resources
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle_game.Properties.Resources.resources
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle-game.csproj.GenerateResource.cache
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle-game.csproj.CoreCompileInputs.cache
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle-game.csproj.CopyComplete
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle_game.exe
+D:\masaüstü\myProject\game\puzzle\obj\Debug\puzzle_game.pdb
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\puzzle_game.exe.config
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\puzzle_game.exe
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\puzzle_game.pdb
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.Mvc.dll
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.WebPages.dll
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.Razor.dll
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\Bootstrap_to_c_sharp.pdb
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\Bootstrap_to_c_sharp.dll.config
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\DesktopLibrary.pdb
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.Mvc.xml
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.WebPages.xml
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.Razor.xml
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\obj\Debug\puzzle-game.csproj.AssemblyReference.cache
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\obj\Debug\puzzle_game.PuzzleForm.resources
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\obj\Debug\puzzle_game.Properties.Resources.resources
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\obj\Debug\puzzle-game.csproj.GenerateResource.cache
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\obj\Debug\puzzle-game.csproj.CoreCompileInputs.cache
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\obj\Debug\puzzle-game.csproj.CopyComplete
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\obj\Debug\puzzle_game.exe
+C:\Users\ilyas bozdemir\Desktop\my-project\Game\puzzle\obj\Debug\puzzle_game.pdb

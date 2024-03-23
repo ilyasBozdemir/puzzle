@@ -1,0 +1,11 @@
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\puzzle.exe.config
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\puzzle.exe
+C:\Users\BozdemirHome\Desktop\game\puzzle\bin\Debug\puzzle.pdb
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle.csprojAssemblyReference.cache
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle.Properties.Resources.resources
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle.csproj.GenerateResource.cache
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle.exe
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle.pdb
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle.TestPuzzleForm.resources
+C:\Users\BozdemirHome\Desktop\game\puzzle\obj\Debug\puzzle.PuzzleForm.resources

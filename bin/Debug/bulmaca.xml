@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Bulmacalar>
+  <Bulmaca id="1" adi="ali" filename="kaynak-resimler/ali.png"/>
+  <Bulmaca id="2" adi="ali2" filename="kaynak-resimler/ali2.png"/>
+  <Bulmaca id="3" adi="saian" filename="kaynak-resimler/saian.jpg"/>
+  <Bulmaca id="4" adi="şanışer" filename="kaynak-resimler/şanışer.jpg"/>
+</Bulmacalar>
